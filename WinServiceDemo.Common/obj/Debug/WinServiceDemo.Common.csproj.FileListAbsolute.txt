@@ -1,0 +1,10 @@
+C:\GitHubProjects\JsonToXmlDemo\WinServiceDemo\WinServiceDemo.Common\bin\Debug\WinServiceDemo.Common.dll
+C:\GitHubProjects\JsonToXmlDemo\WinServiceDemo\WinServiceDemo.Common\bin\Debug\WinServiceDemo.Common.pdb
+C:\GitHubProjects\JsonToXmlDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\JsonToXmlDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.dll
+C:\GitHubProjects\JsonToXmlDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.pdb
+C:\GitHubProjects\WinServiceWithSetupDemo\WinServiceDemo\WinServiceDemo.Common\bin\Debug\WinServiceDemo.Common.dll
+C:\GitHubProjects\WinServiceWithSetupDemo\WinServiceDemo\WinServiceDemo.Common\bin\Debug\WinServiceDemo.Common.pdb
+C:\GitHubProjects\WinServiceWithSetupDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\WinServiceWithSetupDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.dll
+C:\GitHubProjects\WinServiceWithSetupDemo\WinServiceDemo\WinServiceDemo.Common\obj\Debug\WinServiceDemo.Common.pdb
